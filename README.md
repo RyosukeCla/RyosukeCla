@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-```
-$ npx ryosukesuzuki
-```
+https://www.ryosukesuzuki.dev/
