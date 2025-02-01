@@ -1,3 +1,3 @@
-### Hi there 👋
+The world won’t change on its own. We will.
 
-https://www.ryosukesuzuki.dev/
+https://yeyalgorithm.com/
